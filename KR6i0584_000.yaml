@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0584/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說預修十王生七經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0021.xml
+    old_id: X01n0021
+hash: sha256:b095b9446cf257cacca8625eedcb9bddec9ba9d9b6f6b9fb2db3f3d34cb95d74

@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6i0584/v1
+canonical_location: https://kanripo.org/bkk/KR6i0584/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說預修十王生七經
+  identifiers:
+    alt_id:
+    - X01n0021
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0021.xml
+    old_id: X01n0021
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0584_000.yaml, hash: 'sha256:b095b9446cf257cacca8625eedcb9bddec9ba9d9b6f6b9fb2db3f3d34cb95d74'}
+  - {seq: 1, filename: KR6i0584_001.yaml, hash: 'sha256:1916e0abd433154e5e699388d8cf18bce6ee7fa86c5796da8aea5490f03a5925'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0584_001.markers.yaml, hash: 'sha256:ad32821f252521393363c2fc9f740c3f35d9763199753d8b1e404b3a6c1d0d85'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0584_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2432
+  label: 佛說預修十王生七經
+  type: juan
+  level: 1
+hash: sha256:dccc35b35ea71f0706d37f71d19e22dd1094d5afc9f8c2f411b047e73cc9f0ee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
