@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0584_000.yaml, hash: 'sha256:b095b9446cf257cacca8625eedcb9bddec9ba9d9b6f6b9fb2db3f3d34cb95d74'}
-  - {seq: 1, filename: KR6i0584_001.yaml, hash: 'sha256:1916e0abd433154e5e699388d8cf18bce6ee7fa86c5796da8aea5490f03a5925'}
+  - {seq: 1, filename: KR6i0584_001.yaml, hash: 'sha256:e54a00adfa33c9d262e4607cf59ff67c6032021ee496bbe113e210e71a8e7698'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0584_001.markers.yaml, hash: 'sha256:ad32821f252521393363c2fc9f740c3f35d9763199753d8b1e404b3a6c1d0d85'}
+  - {seq: 0, role: markers, filename: assets/KR6i0584_000.markers.yaml, hash: 'sha256:6ce78a6f4c8af9237ef92f89fd4de98f9dab1cb644c3ba931e6e8504436199f1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0584_001.markers.yaml, hash: 'sha256:d46fd12b286b44c805282bf107f452a0c82a4758878be7595b937a9db86213b5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說預修十王生七經
   type: juan
   level: 1
-hash: sha256:dccc35b35ea71f0706d37f71d19e22dd1094d5afc9f8c2f411b047e73cc9f0ee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:beeb6a5f1ca35bfe9900dd415227b9fd77c242d90fb09ac803cec590fbf0bf54
