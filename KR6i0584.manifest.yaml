@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0584/v1
 canonical_location: https://kanripo.org/bkk/KR6i0584/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說預修十王生七經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0584_000.yaml, hash: 'sha256:b095b9446cf257cacca8625eedcb9bddec9ba9d9b6f6b9fb2db3f3d34cb95d74'}
-  - {seq: 1, filename: KR6i0584_001.yaml, hash: 'sha256:e54a00adfa33c9d262e4607cf59ff67c6032021ee496bbe113e210e71a8e7698'}
+  - {seq: 1, filename: KR6i0584_001.yaml, hash: 'sha256:767d7121700e78ac8b56893a151abdfb709dcc9d97d87553bf832e619299ddf6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0584_000.markers.yaml, hash: 'sha256:6ce78a6f4c8af9237ef92f89fd4de98f9dab1cb644c3ba931e6e8504436199f1'}
-  - {seq: 1, role: markers, filename: assets/KR6i0584_001.markers.yaml, hash: 'sha256:d46fd12b286b44c805282bf107f452a0c82a4758878be7595b937a9db86213b5'}
+  - {seq: 1, role: markers, filename: assets/KR6i0584_001.markers.yaml, hash: 'sha256:d93052deed58933700e0916c0856596d13b9788f41b657f98f26de7bff9347f3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說預修十王生七經
   type: juan
   level: 1
-hash: sha256:beeb6a5f1ca35bfe9900dd415227b9fd77c242d90fb09ac803cec590fbf0bf54
+hash: sha256:df7428651d4db8482c37339b3bdf9a5d4fb212ab550bb0b10ed36e256b7f977f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
